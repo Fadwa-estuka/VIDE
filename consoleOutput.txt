@@ -1,0 +1,438 @@
+docWidth: 1000  docHeight: 1690  docSize: 1690000  docCenterX:500.0
+
+-------------- candidates -----------
+visualStructure   Order: 2   Width: 1000   Height:367   Left: 0   Size: 367000   CenterX: 500.0
+--------------------------------------
+data region ===> index: 0     size: 367000     order: 2
+data region content:                 Search Atomz      quick search      advanced search         SEARCH RESULTS 1 - 10 of 85 total results for "sales"   Products All 5 Results     1.  Try Atomz Search and Discover the Benefits of Web-Native Software    ...one of our  sales  representatives at (650) 244-5600 or complete the  Sales ... 2.  Atomz Search    ...>> Contact an Atomz  sales  representative. 3.  Atomz Publish    ...>> Contact an Atomz  sales  representative. 
+data region Children length: 0 visual structures
+
+No noise blocks to be removed !
+
+------- Order: 2    NestedBlocks: 60 --------
+vipsBlock 1   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 2   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 3   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 4   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 5   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 6   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 7   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 8   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 9   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 10   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 11   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 12   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 13   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 14   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 15   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 16   isImg: false   txt: Search    children size: 1      nodeName: b
+vipsBlock 17   isImg: false   txt: Atomz    children size: 1      nodeName: b
+vipsBlock 18   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 19   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 20   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 21   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 22   isImg: false   txt: quick search    children size: 1      nodeName: a
+vipsBlock 23   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 24   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 25   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 26   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 27   isImg: false   txt: advanced    children size: 1      nodeName: a
+vipsBlock 28   isImg: false   txt: search    children size: 1      nodeName: a
+vipsBlock 29   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 30   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 31   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 32   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 33   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 34   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 35   isImg: false   txt: SEARCH RESULTS 1 - 10 of 85 total results for "sales"    children size: 1      nodeName: b
+vipsBlock 36   isImg: true   txt:     children size: 0      nodeName: img
+vipsBlock 37   isImg: false   txt:  Products    children size: 1      nodeName: b
+vipsBlock 38   isImg: false   txt: All 5 Results    children size: 1      nodeName: a
+vipsBlock 39   isImg: false   txt:      children size: 1      nodeName: Xspan
+vipsBlock 40   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 41   isImg: false   txt: 1.     children size: 1      nodeName: td
+vipsBlock 42   isImg: false   txt: Try Atomz Search and Discover the Benefits of Web-Native Software    children size: 1      nodeName: a
+vipsBlock 43   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 44   isImg: false   txt:  ...one of our     children size: 1      nodeName: Xspan
+vipsBlock 45   isImg: false   txt: sales    children size: 1      nodeName: b
+vipsBlock 46   isImg: false   txt:  representatives at (650) 244-5600 or complete the     children size: 1      nodeName: Xspan
+vipsBlock 47   isImg: false   txt: Sales    children size: 1      nodeName: b
+vipsBlock 48   isImg: false   txt: ...    children size: 1      nodeName: Xspan
+vipsBlock 49   isImg: false   txt: 2.     children size: 1      nodeName: td
+vipsBlock 50   isImg: false   txt: Atomz Search    children size: 1      nodeName: a
+vipsBlock 51   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 52   isImg: false   txt:  ...>> Contact an Atomz     children size: 1      nodeName: Xspan
+vipsBlock 53   isImg: false   txt: sales    children size: 1      nodeName: b
+vipsBlock 54   isImg: false   txt:  representative.    children size: 1      nodeName: Xspan
+vipsBlock 55   isImg: false   txt: 3.     children size: 1      nodeName: td
+vipsBlock 56   isImg: false   txt: Atomz Publish    children size: 1      nodeName: a
+vipsBlock 57   isImg: false   txt:      children size: 1      nodeName: td
+vipsBlock 58   isImg: false   txt:  ...>> Contact an Atomz     children size: 1      nodeName: Xspan
+vipsBlock 59   isImg: false   txt: sales    children size: 1      nodeName: b
+vipsBlock 60   isImg: false   txt:  representative.    children size: 1      nodeName: Xspan
+
+clusters size: 60 : 
+
+-------- cluster 1:   size=1 --------
+1:  id: 1   txt:        x:8   y:8   width:18   height:4
+-------- cluster 2:   size=1 --------
+1:  id: 2   txt:        x:8   y:12   width:102   height:37
+-------- cluster 3:   size=1 --------
+1:  id: 3   txt:        x:8   y:50   width:64   height:22
+-------- cluster 4:   size=1 --------
+1:  id: 4   txt:        x:72   y:50   width:83   height:22
+-------- cluster 5:   size=1 --------
+1:  id: 5   txt:        x:155   y:50   width:75   height:22
+-------- cluster 6:   size=1 --------
+1:  id: 6   txt:        x:230   y:50   width:88   height:22
+-------- cluster 7:   size=1 --------
+1:  id: 7   txt:        x:318   y:50   width:57   height:22
+-------- cluster 8:   size=1 --------
+1:  id: 8   txt:        x:375   y:50   width:79   height:22
+-------- cluster 9:   size=1 --------
+1:  id: 9   txt:        x:454   y:50   width:71   height:22
+-------- cluster 10:   size=1 --------
+1:  id: 10   txt:        x:525   y:49   width:23   height:1
+-------- cluster 11:   size=1 --------
+1:  id: 11   txt:        x:8   y:74   width:6   height:7
+-------- cluster 12:   size=1 --------
+1:  id: 12   txt:        x:8   y:81   width:523   height:1
+-------- cluster 13:   size=1 --------
+1:  id: 13   txt:        x:991   y:81   width:1   height:100
+-------- cluster 14:   size=1 --------
+1:  id: 14   txt:        x:8   y:82   width:10   height:10
+-------- cluster 15:   size=1 --------
+1:  id: 15   txt:        x:8   y:92   width:10   height:13
+-------- cluster 16:   size=1 --------
+1:  id: 16   txt: Search       x:18   y:92   width:46   height:24
+-------- cluster 17:   size=1 --------
+1:  id: 17   txt: Atomz       x:18   y:117   width:42   height:24
+-------- cluster 18:   size=1 --------
+1:  id: 18   txt:        x:8   y:142   width:10   height:2
+-------- cluster 19:   size=1 --------
+1:  id: 19   txt:        x:8   y:144   width:10   height:1
+-------- cluster 20:   size=1 --------
+1:  id: 20   txt:        x:8   y:145   width:10   height:2
+-------- cluster 21:   size=1 --------
+1:  id: 21   txt:         x:8   y:147   width:10   height:25
+-------- cluster 22:   size=1 --------
+1:  id: 22   txt: quick search       x:18   y:147   width:76   height:24
+-------- cluster 23:   size=1 --------
+1:  id: 23   txt:        x:8   y:172   width:10   height:2
+-------- cluster 24:   size=1 --------
+1:  id: 24   txt:        x:8   y:174   width:10   height:1
+-------- cluster 25:   size=1 --------
+1:  id: 25   txt:        x:8   y:175   width:10   height:2
+-------- cluster 26:   size=1 --------
+1:  id: 26   txt:         x:8   y:177   width:10   height:50
+-------- cluster 27:   size=1 --------
+1:  id: 27   txt: advanced       x:18   y:177   width:58   height:24
+-------- cluster 28:   size=1 --------
+1:  id: 28   txt: search       x:18   y:202   width:39   height:24
+-------- cluster 29:   size=1 --------
+1:  id: 29   txt:        x:8   y:227   width:10   height:2
+-------- cluster 30:   size=1 --------
+1:  id: 30   txt:        x:8   y:229   width:10   height:1
+-------- cluster 31:   size=1 --------
+1:  id: 31   txt:        x:8   y:230   width:10   height:2
+-------- cluster 32:   size=1 --------
+1:  id: 32   txt:        x:105   y:92   width:20   height:10
+-------- cluster 33:   size=1 --------
+1:  id: 33   txt:         x:413   y:92   width:288   height:25
+-------- cluster 34:   size=1 --------
+1:  id: 34   txt:         x:125   y:117   width:864   height:25
+-------- cluster 35:   size=1 --------
+1:  id: 35   txt: SEARCH RESULTS 1 - 10 of 85 total results for "sales"       x:125   y:142   width:380   height:24
+-------- cluster 36:   size=1 --------
+1:  id: 36   txt:        x:125   y:167   width:10   height:6
+-------- cluster 37:   size=1 --------
+1:  id: 37   txt:  Products       x:125   y:173   width:67   height:19
+-------- cluster 38:   size=1 --------
+1:  id: 38   txt: All 5 Results       x:906   y:173   width:78   height:19
+-------- cluster 39:   size=1 --------
+1:  id: 39   txt:         x:984   y:173   width:4   height:19
+-------- cluster 40:   size=1 --------
+1:  id: 40   txt:         x:125   y:192   width:864   height:25
+-------- cluster 41:   size=1 --------
+1:  id: 41   txt: 1.        x:169   y:217   width:16   height:25
+-------- cluster 42:   size=1 --------
+1:  id: 42   txt: Try Atomz Search and Discover the Benefits of Web-Native Software       x:185   y:217   width:424   height:24
+-------- cluster 43:   size=1 --------
+1:  id: 43   txt:         x:944   y:217   width:45   height:25
+-------- cluster 44:   size=1 --------
+1:  id: 44   txt:  ...one of our        x:185   y:242   width:82   height:24
+-------- cluster 45:   size=1 --------
+1:  id: 45   txt: sales       x:267   y:242   width:34   height:24
+-------- cluster 46:   size=1 --------
+1:  id: 46   txt:  representatives at (650) 244-5600 or complete the        x:301   y:242   width:315   height:24
+-------- cluster 47:   size=1 --------
+1:  id: 47   txt: Sales       x:616   y:242   width:36   height:24
+-------- cluster 48:   size=1 --------
+1:  id: 48   txt: ...       x:652   y:242   width:12   height:24
+-------- cluster 49:   size=1 --------
+1:  id: 49   txt: 2.        x:169   y:267   width:16   height:25
+-------- cluster 50:   size=1 --------
+1:  id: 50   txt: Atomz Search       x:185   y:267   width:86   height:24
+-------- cluster 51:   size=1 --------
+1:  id: 51   txt:         x:945   y:267   width:44   height:25
+-------- cluster 52:   size=1 --------
+1:  id: 52   txt:  ...>> Contact an Atomz        x:185   y:292   width:152   height:24
+-------- cluster 53:   size=1 --------
+1:  id: 53   txt: sales       x:337   y:292   width:34   height:24
+-------- cluster 54:   size=1 --------
+1:  id: 54   txt:  representative.       x:371   y:292   width:92   height:24
+-------- cluster 55:   size=1 --------
+1:  id: 55   txt: 3.        x:169   y:317   width:16   height:25
+-------- cluster 56:   size=1 --------
+1:  id: 56   txt: Atomz Publish       x:185   y:317   width:87   height:24
+-------- cluster 57:   size=1 --------
+1:  id: 57   txt:         x:945   y:317   width:44   height:25
+-------- cluster 58:   size=1 --------
+1:  id: 58   txt:  ...>> Contact an Atomz        x:185   y:342   width:152   height:24
+-------- cluster 59:   size=1 --------
+1:  id: 59   txt: sales       x:337   y:342   width:34   height:24
+-------- cluster 60:   size=1 --------
+1:  id: 60   txt:  representative.       x:371   y:342   width:92   height:24
+
+
+1:   clusterSize:1   minLeft:8   maxRight:26   minTop:8   maxBottom:12 ===> Cmax
+2:   clusterSize:1   minLeft:8   maxRight:110   minTop:12   maxBottom:49
+3:   clusterSize:1   minLeft:8   maxRight:72   minTop:50   maxBottom:72
+4:   clusterSize:1   minLeft:72   maxRight:155   minTop:50   maxBottom:72
+5:   clusterSize:1   minLeft:155   maxRight:230   minTop:50   maxBottom:72
+6:   clusterSize:1   minLeft:230   maxRight:318   minTop:50   maxBottom:72
+7:   clusterSize:1   minLeft:318   maxRight:375   minTop:50   maxBottom:72
+8:   clusterSize:1   minLeft:375   maxRight:454   minTop:50   maxBottom:72
+9:   clusterSize:1   minLeft:454   maxRight:525   minTop:50   maxBottom:72
+10:   clusterSize:1   minLeft:525   maxRight:548   minTop:49   maxBottom:50
+11:   clusterSize:1   minLeft:8   maxRight:14   minTop:74   maxBottom:81
+12:   clusterSize:1   minLeft:8   maxRight:531   minTop:81   maxBottom:82
+13:   clusterSize:1   minLeft:991   maxRight:992   minTop:81   maxBottom:181
+14:   clusterSize:1   minLeft:8   maxRight:18   minTop:82   maxBottom:92
+15:   clusterSize:1   minLeft:8   maxRight:18   minTop:92   maxBottom:105
+16:   clusterSize:1   minLeft:18   maxRight:64   minTop:92   maxBottom:116
+17:   clusterSize:1   minLeft:18   maxRight:60   minTop:117   maxBottom:141
+18:   clusterSize:1   minLeft:8   maxRight:18   minTop:142   maxBottom:144
+19:   clusterSize:1   minLeft:8   maxRight:18   minTop:144   maxBottom:145
+20:   clusterSize:1   minLeft:8   maxRight:18   minTop:145   maxBottom:147
+21:   clusterSize:1   minLeft:8   maxRight:18   minTop:147   maxBottom:172
+22:   clusterSize:1   minLeft:18   maxRight:94   minTop:147   maxBottom:171
+23:   clusterSize:1   minLeft:8   maxRight:18   minTop:172   maxBottom:174
+24:   clusterSize:1   minLeft:8   maxRight:18   minTop:174   maxBottom:175
+25:   clusterSize:1   minLeft:8   maxRight:18   minTop:175   maxBottom:177
+26:   clusterSize:1   minLeft:8   maxRight:18   minTop:177   maxBottom:227
+27:   clusterSize:1   minLeft:18   maxRight:76   minTop:177   maxBottom:201
+28:   clusterSize:1   minLeft:18   maxRight:57   minTop:202   maxBottom:226
+29:   clusterSize:1   minLeft:8   maxRight:18   minTop:227   maxBottom:229
+30:   clusterSize:1   minLeft:8   maxRight:18   minTop:229   maxBottom:230
+31:   clusterSize:1   minLeft:8   maxRight:18   minTop:230   maxBottom:232
+32:   clusterSize:1   minLeft:105   maxRight:125   minTop:92   maxBottom:102
+33:   clusterSize:1   minLeft:413   maxRight:701   minTop:92   maxBottom:117
+34:   clusterSize:1   minLeft:125   maxRight:989   minTop:117   maxBottom:142
+35:   clusterSize:1   minLeft:125   maxRight:505   minTop:142   maxBottom:166
+36:   clusterSize:1   minLeft:125   maxRight:135   minTop:167   maxBottom:173
+37:   clusterSize:1   minLeft:125   maxRight:192   minTop:173   maxBottom:192
+38:   clusterSize:1   minLeft:906   maxRight:984   minTop:173   maxBottom:192
+39:   clusterSize:1   minLeft:984   maxRight:988   minTop:173   maxBottom:192
+40:   clusterSize:1   minLeft:125   maxRight:989   minTop:192   maxBottom:217
+41:   clusterSize:1   minLeft:169   maxRight:185   minTop:217   maxBottom:242
+42:   clusterSize:1   minLeft:185   maxRight:609   minTop:217   maxBottom:241
+43:   clusterSize:1   minLeft:944   maxRight:989   minTop:217   maxBottom:242
+44:   clusterSize:1   minLeft:185   maxRight:267   minTop:242   maxBottom:266
+45:   clusterSize:1   minLeft:267   maxRight:301   minTop:242   maxBottom:266
+46:   clusterSize:1   minLeft:301   maxRight:616   minTop:242   maxBottom:266
+47:   clusterSize:1   minLeft:616   maxRight:652   minTop:242   maxBottom:266
+48:   clusterSize:1   minLeft:652   maxRight:664   minTop:242   maxBottom:266
+49:   clusterSize:1   minLeft:169   maxRight:185   minTop:267   maxBottom:292
+50:   clusterSize:1   minLeft:185   maxRight:271   minTop:267   maxBottom:291
+51:   clusterSize:1   minLeft:945   maxRight:989   minTop:267   maxBottom:292
+52:   clusterSize:1   minLeft:185   maxRight:337   minTop:292   maxBottom:316
+53:   clusterSize:1   minLeft:337   maxRight:371   minTop:292   maxBottom:316
+54:   clusterSize:1   minLeft:371   maxRight:463   minTop:292   maxBottom:316
+55:   clusterSize:1   minLeft:169   maxRight:185   minTop:317   maxBottom:342
+56:   clusterSize:1   minLeft:185   maxRight:272   minTop:317   maxBottom:341
+57:   clusterSize:1   minLeft:945   maxRight:989   minTop:317   maxBottom:342
+58:   clusterSize:1   minLeft:185   maxRight:337   minTop:342   maxBottom:366
+59:   clusterSize:1   minLeft:337   maxRight:371   minTop:342   maxBottom:366
+60:   clusterSize:1   minLeft:371   maxRight:463   minTop:342   maxBottom:366
+
+Overlaping ..
+2   isOverlap: false   isAhead:false   isBehind:true
+3   isOverlap: false   isAhead:false   isBehind:true
+4   isOverlap: false   isAhead:false   isBehind:true
+5   isOverlap: false   isAhead:false   isBehind:true
+6   isOverlap: false   isAhead:false   isBehind:true
+7   isOverlap: false   isAhead:false   isBehind:true
+8   isOverlap: false   isAhead:false   isBehind:true
+9   isOverlap: false   isAhead:false   isBehind:true
+10   isOverlap: false   isAhead:false   isBehind:true
+11   isOverlap: true   isAhead:false   isBehind:true
+12   isOverlap: false   isAhead:false   isBehind:true
+13   isOverlap: false   isAhead:false   isBehind:true
+14   isOverlap: true   isAhead:false   isBehind:true
+15   isOverlap: true   isAhead:false   isBehind:true
+16   isOverlap: true   isAhead:false   isBehind:true
+17   isOverlap: true   isAhead:false   isBehind:true
+18   isOverlap: true   isAhead:false   isBehind:true
+19   isOverlap: true   isAhead:false   isBehind:true
+20   isOverlap: true   isAhead:false   isBehind:true
+21   isOverlap: true   isAhead:false   isBehind:true
+22   isOverlap: true   isAhead:false   isBehind:true
+23   isOverlap: true   isAhead:false   isBehind:true
+24   isOverlap: true   isAhead:false   isBehind:true
+25   isOverlap: true   isAhead:false   isBehind:true
+26   isOverlap: true   isAhead:false   isBehind:true
+27   isOverlap: true   isAhead:false   isBehind:true
+28   isOverlap: true   isAhead:false   isBehind:true
+29   isOverlap: true   isAhead:false   isBehind:true
+30   isOverlap: true   isAhead:false   isBehind:true
+31   isOverlap: true   isAhead:false   isBehind:true
+32   isOverlap: false   isAhead:false   isBehind:true
+33   isOverlap: false   isAhead:false   isBehind:true
+34   isOverlap: false   isAhead:false   isBehind:true
+35   isOverlap: false   isAhead:false   isBehind:true
+36   isOverlap: false   isAhead:false   isBehind:true
+37   isOverlap: false   isAhead:false   isBehind:true
+38   isOverlap: false   isAhead:false   isBehind:true
+39   isOverlap: false   isAhead:false   isBehind:true
+40   isOverlap: false   isAhead:false   isBehind:true
+41   isOverlap: false   isAhead:false   isBehind:true
+42   isOverlap: false   isAhead:false   isBehind:true
+43   isOverlap: false   isAhead:false   isBehind:true
+44   isOverlap: false   isAhead:false   isBehind:true
+45   isOverlap: false   isAhead:false   isBehind:true
+46   isOverlap: false   isAhead:false   isBehind:true
+47   isOverlap: false   isAhead:false   isBehind:true
+48   isOverlap: false   isAhead:false   isBehind:true
+49   isOverlap: false   isAhead:false   isBehind:true
+50   isOverlap: false   isAhead:false   isBehind:true
+51   isOverlap: false   isAhead:false   isBehind:true
+52   isOverlap: false   isAhead:false   isBehind:true
+53   isOverlap: false   isAhead:false   isBehind:true
+54   isOverlap: false   isAhead:false   isBehind:true
+55   isOverlap: false   isAhead:false   isBehind:true
+56   isOverlap: false   isAhead:false   isBehind:true
+57   isOverlap: false   isAhead:false   isBehind:true
+58   isOverlap: false   isAhead:false   isBehind:true
+59   isOverlap: false   isAhead:false   isBehind:true
+60   isOverlap: false   isAhead:false   isBehind:true
+
+
+ Data Records : 
+------------- Data Record 1 -----------
+1  Search
+2  Atomz
+3   
+4  quick search
+5   
+6  advanced
+7  search
+-------------------------------------------------------------------------------------------------------------
+currentItemSet: Search  __  
+Cluster 1 size(1) : Search __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding: Atomz  __  
+indexesOfItems: 0 
+
+Column ===> 1:Search    
+-------------------------------------------------------------------------------------------------------------
+currentItemSet: Atomz  __  
+Cluster 1 size(1) : Atomz __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding:    __  
+indexesOfItems: 0 
+
+Column ===> 1:Atomz    
+-------------------------------------------------------------------------------------------------------------
+currentItemSet:    __  
+Cluster 1 size(1) :   __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding: quick search  __  
+indexesOfItems: 0 
+
+Column ===> 1:     
+-------------------------------------------------------------------------------------------------------------
+currentItemSet: quick search  __  
+Cluster 1 size(1) : quick search __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding:    __  
+indexesOfItems: 0 
+
+Column ===> 1:quick search    
+-------------------------------------------------------------------------------------------------------------
+currentItemSet:    __  
+Cluster 1 size(1) :   __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding: advanced  __  
+indexesOfItems: 0 
+
+Column ===> 1:     
+-------------------------------------------------------------------------------------------------------------
+currentItemSet: advanced  __  
+Cluster 1 size(1) : advanced __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding: search  __  
+indexesOfItems: 0 
+
+Column ===> 1:advanced    
+-------------------------------------------------------------------------------------------------------------
+currentItemSet: search  __  
+Cluster 1 size(1) : search __ 
+Cluster 1 :
+
+maxPositions:    ====> max=0
+Maxes: 0      CurrentCluster#:1
+DataRecords in CurrentCluster: Record:1 __ 
+DataRecords not in CurrentCluster: 
+
+CurrentItemSet after removing: 
+CurrentItemSet after adding: 
+indexesOfItems: 0 
+
+Column ===> 1:search    
+
+1 | Search | Atomz |   | quick search |   | advanced | search | 
+---------------------------------------------------------------
+
